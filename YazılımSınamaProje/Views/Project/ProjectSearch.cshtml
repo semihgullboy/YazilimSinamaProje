@@ -1,0 +1,33 @@
+﻿@using YazılımSınamaProje.Models
+@model List<Project>
+
+@{
+    ViewData["Title"] = "ProjectSearch";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+@using (Html.BeginForm("ProjectSearch", "Project", FormMethod.Get))
+{
+    <p>
+        Aranacak İş İlanı : @Html.TextBox("p")
+        <input type="submit" value="Ara" />
+    </p>
+}
+
+<br />
+@foreach (var item in Model)
+{
+    <div class="card">
+        <div class="card-header text-right">
+            <a href="/Offer/TeklifVer" class="btn-lg  btn-primary m-2">Teklif</a> @item.projectBudget
+        </div>
+        <div class="card-body">
+            <h4 class="card-title">@item.projectTitle</h4>
+            <p class="card-text">@item.projectDescription</p>
+            <p class="card-text">İş süresi :@item.projectTime</p>
+            <p class="card-text">@item.projectLanguage | Projeyi ekleyen kisi: @item.User.firstName @item.User.lastName</p>
+
+        </div>
+    </div>
+}
+

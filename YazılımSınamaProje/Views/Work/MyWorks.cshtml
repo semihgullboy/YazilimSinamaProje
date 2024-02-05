@@ -1,0 +1,63 @@
+﻿@using YazılımSınamaProje.Models
+@model List<Work>
+
+@{
+    ViewData["Title"] = "MyWorks";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h1>İşlerim</h1>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+@foreach (var item in Model)
+{
+    <div class="card">
+        <div class="card-header">
+            <h4 class="card-title">@item.project.projectTitle</h4>
+        </div>
+        <div class="card-body">
+            <p class="card-text">@item.project.projectDescription</p>
+            <p class="card-text">İş süresi :@item.project.projectTime</p>
+            <p class="card-text">@item.project.projectLanguage  </p>
+            <button type="submit" class="btn-lg btn-primary m-2" data-toggle="modal" data-target="#exampleModal-@item.projectID">Teslim Et</button>
+            <!-- Modal -->
+            <div class="modal fade" id="exampleModal-@item.projectID" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">Teklif Ver</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+
+                        <div class="modal-body">
+                            <form method="post" action="@Url.Action("JobDelivery", "Work")">
+                                <input type="hidden" name="workId" value="@item.workID" />
+                                <label for="teklifMiktari">İş Teslim Açıklaması:</label><br>
+                                <textarea id="yaziIcerigi" name="aciklama" class="form-control" rows="4" placeholder="Metin giriniz..."></textarea><br>
+                                <button type="submit" class="btn btn-primary">Teslimi Tamamla</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+}
+<br />
+

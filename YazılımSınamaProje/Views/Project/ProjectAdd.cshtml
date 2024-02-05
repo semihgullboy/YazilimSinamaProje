@@ -1,0 +1,65 @@
+﻿
+@{
+    ViewData["Title"] = "ProjectAdd";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<style>
+
+    form {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    label {
+        display: block;
+        margin-bottom: 8px;
+    }
+
+    input,
+    textarea {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 16px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+    }
+
+    button {
+        background-color: #4caf50;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+        button:hover {
+            background-color: #45a049;
+        }
+</style>
+
+<h1>Proje Ekleme</h1>
+
+<form method="post">
+    <label for="projectTitle">Proje Başlığı:</label>
+    <input type="text" id="projectTitle" name="projectTitle" required>
+
+    <label for="projectDescription">Proje Açıklaması:</label>
+    <textarea id="projectDescription" name="projectDescription" rows="4" required></textarea>
+
+    <label for="projectBudget">Proje Bütçesi:</label>
+    <input type="number" id="projectBudget" name="projectBudget" required>
+
+    <label for="projectTime">Proje Zamanı:</label>
+    <input type="text" id="projectTime" name="projectTime" required>
+
+    <label for="projectTime">Proje Dili:</label>
+    <input type="text" id="projectLanguage" name="projectLanguage" required>
+
+    <button type="submit">Gönder</button>
+</form>
+

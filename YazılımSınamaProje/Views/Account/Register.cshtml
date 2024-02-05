@@ -1,0 +1,106 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Register</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+        form {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 500px;
+            max-width: 100%;
+            margin: auto; /* Sayfayı ortala */
+            text-align: center;
+        }
+
+        h2 {
+            color: #333;
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+        input {
+            width: calc(100% - 20px); /* Padding ve border'ı dikkate alarak genişliği ayarla */
+            padding: 10px;
+            margin-bottom: 20px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        select {
+            width: calc(100% - 20px);
+            padding: 10px;
+            margin-bottom: 20px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        button {
+            background-color: #4caf50;
+            color: #fff;
+            padding: 12px;
+            margin-bottom:15px;
+            border: none;
+            border-radius: 20px;
+            cursor: pointer;
+            width: calc(100% - 20px);
+            font-size: 16px;
+        }
+
+            button:hover {
+                background-color: #45a049;
+            }
+
+        .container {
+            max-width: 600px; /* Container'ın maksimum genişliğini ayarla */
+            margin: auto; /* Sayfayı ortala */
+        }
+
+    </style>
+</head>
+<body>
+    <form method="post" accept-charset="UTF-8">
+
+        <div class="container">
+            <h2>Register</h2>
+            <hr />
+
+            <input type="text" id="firstname" name="firstName" placeholder="First name" required>
+            <input type="text" id="lastname" name="lastName" placeholder="Last name" required="">
+            <input type="email" id="email" name="email" placeholder="Email" required="">
+            <input type="password" id="password" name="password" minlength="8" placeholder="Şifre (En az 8 karakter)" required>
+            <select id="country" name="country" required>
+                <option value="" disabled selected>Ülkenizi seçiniz..</option>
+                <option value="country1">Türkiye</option>
+                <option value="country2">Amerika</option>
+            </select>
+
+            <button type="submit">Register</button>
+            <a href="/Account/Login">Zaten bir hesabın var mı ?</a>
+
+    </form>
+</body>
+</html>

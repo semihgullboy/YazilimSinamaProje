@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "GetVideoComments";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h1>Micro Transaction Onaylama</h1>
+<div>
+    @if (!string.IsNullOrEmpty(ViewBag.Comments))
+    {
+        <p>@ViewBag.Comments</p>
+    }
+    else
+    {
+        <p>Giriş yapan kullanıcı yorum yaptı!</p>
+    }
+
+</div>
+
