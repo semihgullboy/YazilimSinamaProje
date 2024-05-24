@@ -22,20 +22,20 @@ namespace YazılımSınamaProje.Controllers
         {
             var usermail = User.Identity.Name;
             Context c = new Context();
-            var user = c.users.FirstOrDefault(x => x.email == usermail);
+            var user = c.Users.FirstOrDefault(x => x.Email == usermail);
 
             if (user != null)
             {
-                var UserName = user.firstName + " " + user.lastName;
+                var UserName = user.FirstName + " " + user.LastName;
 
                 // Kullanıcının mevcut bakiyesini al
-                var Money = user.money;
+                var Money = user.Money;
 
                 // Eğer bakiye null ise (veya belirli bir durumu temsil ediyorsa), 200 TL ekle
                 if (Money == null)
                 {
                     Money = 300;
-                    user.money = Money;
+                    user.Money = Money;
                     c.SaveChanges(); // Veritabanındaki değişiklikleri kaydet
                 }
 

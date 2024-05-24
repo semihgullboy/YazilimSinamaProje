@@ -1,1311 +1,1311 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\YazılımSınamaProje.bundle.scp.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\YazılımSınamaProje.bundle.scp.css",
       "PackagePath": "staticwebassets\\YazılımSınamaProje.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\websites\\Doc\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\css\\main.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\css\\main.css",
       "PackagePath": "staticwebassets\\websites\\Doc\\css\\main.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\css\\normalize.min.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\css\\normalize.min.css",
       "PackagePath": "staticwebassets\\websites\\Doc\\css\\normalize.min.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\fonts\\FontAwesome.otf",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\websites\\Doc\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\fonts\\fontawesome-webfont.eot",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\websites\\Doc\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\fonts\\fontawesome-webfont.svg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\websites\\Doc\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\websites\\Doc\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\fonts\\fontawesome-webfont.woff",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\websites\\Doc\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\img\\Thumbs.db",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\img\\Thumbs.db",
       "PackagePath": "staticwebassets\\websites\\Doc\\img\\Thumbs.db"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\img\\logo.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\img\\logo.png",
       "PackagePath": "staticwebassets\\websites\\Doc\\img\\logo.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\index.html",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\index.html",
       "PackagePath": "staticwebassets\\websites\\Doc\\index.html"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\js\\custom.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\js\\custom.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\js\\custom.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\js\\jquery-1.11.0.min.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\js\\jquery-1.11.0.min.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\js\\jquery-1.11.0.min.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\js\\jquery.nav.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\js\\jquery.nav.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\js\\jquery.nav.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shAutoloader.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shAutoloader.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shAutoloader.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushAS3.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushAS3.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushAS3.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushBash.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushBash.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushBash.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushCSharp.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushCSharp.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushCSharp.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushCpp.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushCpp.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushCpp.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushCss.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushCss.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushCss.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushDelphi.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushDelphi.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushDelphi.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushDiff.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushDiff.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushDiff.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushErlang.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushErlang.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushErlang.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushGroovy.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushGroovy.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushGroovy.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushJScript.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushJScript.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushJava.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushJava.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushJava.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushPerl.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushPerl.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushPerl.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushPhp.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushPhp.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushPhp.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushPlain.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushPlain.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushPlain.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushPython.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushPython.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushPython.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushRuby.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushRuby.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushRuby.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushSass.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushSass.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushSass.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushScala.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushScala.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushScala.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushSql.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushSql.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushSql.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushVb.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushVb.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushVb.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushXml.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shBrushXml.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shCore.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shCore.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shCore.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shLegacy.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\scripts\\shLegacy.js",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\scripts\\shLegacy.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shCore.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shCore.css",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\styles\\shCore.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shCoreDefault.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shCoreDefault.css",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\styles\\shCoreDefault.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shCoreDjango.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shCoreDjango.css",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\styles\\shCoreDjango.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shCoreEclipse.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shCoreEclipse.css",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\styles\\shCoreEclipse.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shCoreEmacs.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shCoreEmacs.css",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\styles\\shCoreEmacs.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shCoreMDUltra.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shCoreMDUltra.css",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\styles\\shCoreMDUltra.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shCoreMidnight.css",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\styles\\shCoreMidnight.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shCoreRDark.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shCoreRDark.css",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\styles\\shCoreRDark.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shThemeDefault.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shThemeDefault.css",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\styles\\shThemeDefault.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shThemeDjango.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shThemeDjango.css",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\styles\\shThemeDjango.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shThemeEclipse.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shThemeEclipse.css",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\styles\\shThemeEclipse.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shThemeEmacs.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shThemeEmacs.css",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\styles\\shThemeEmacs.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shThemeMDUltra.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shThemeMDUltra.css",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\styles\\shThemeMDUltra.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shThemeMidnight.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shThemeMidnight.css",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\styles\\shThemeMidnight.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shThemeRDark.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\Doc\\syntax-highlighter\\styles\\shThemeRDark.css",
       "PackagePath": "staticwebassets\\websites\\Doc\\syntax-highlighter\\styles\\shThemeRDark.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\about.html",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\about.html",
       "PackagePath": "staticwebassets\\websites\\about.html"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\animate.min.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\animate.min.css",
       "PackagePath": "staticwebassets\\websites\\assets\\css\\animate.min.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\websites\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\flaticon.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\flaticon.css",
       "PackagePath": "staticwebassets\\websites\\assets\\css\\flaticon.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\fontawesome-all.min.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\fontawesome-all.min.css",
       "PackagePath": "staticwebassets\\websites\\assets\\css\\fontawesome-all.min.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\magnific-popup.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\magnific-popup.css",
       "PackagePath": "staticwebassets\\websites\\assets\\css\\magnific-popup.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\nice-select.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\nice-select.css",
       "PackagePath": "staticwebassets\\websites\\assets\\css\\nice-select.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\owl.carousel.min.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\websites\\assets\\css\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\price_rangs.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\price_rangs.css",
       "PackagePath": "staticwebassets\\websites\\assets\\css\\price_rangs.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\responsive.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\responsive.css",
       "PackagePath": "staticwebassets\\websites\\assets\\css\\responsive.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\slick.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\slick.css",
       "PackagePath": "staticwebassets\\websites\\assets\\css\\slick.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\slicknav.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\slicknav.css",
       "PackagePath": "staticwebassets\\websites\\assets\\css\\slicknav.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\style.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\websites\\assets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\themify-icons.css",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\css\\themify-icons.css",
       "PackagePath": "staticwebassets\\websites\\assets\\css\\themify-icons.css"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\Flaticon.eot",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\Flaticon.eot",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\Flaticon.eot"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\Flaticon.svg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\Flaticon.svg",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\Flaticon.svg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\Flaticon.ttf",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\Flaticon.ttf",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\Flaticon.ttf"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\Flaticon.woff",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\Flaticon.woff",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\Flaticon.woff"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\Flaticon.woff2",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\Flaticon.woff2",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\Flaticon.woff2"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\_flaticon.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\_flaticon.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\_flaticon.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-brands-400.eot",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\fa-brands-400.eot"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-brands-400.svg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\fa-brands-400.svg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-brands-400.woff",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\fa-brands-400.woff"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-regular-400.eot",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\fa-regular-400.eot"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-regular-400.svg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\fa-regular-400.svg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-regular-400.woff",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\fa-regular-400.woff"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-solid-900.eot",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\fa-solid-900.eot"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-solid-900.svg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\fa-solid-900.svg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-solid-900.woff",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\fa-solid-900.woff"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\flaticon.html",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\flaticon.html",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\flaticon.html"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\themify.eot",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\themify.eot",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\themify.eot"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\themify.svg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\themify.svg",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\themify.svg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\themify.ttf",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\themify.ttf",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\themify.ttf"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\themify.woff",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\fonts\\themify.woff",
       "PackagePath": "staticwebassets\\websites\\assets\\fonts\\themify.woff"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\about\\about_lft.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\about\\about_lft.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\about\\about_lft.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\about\\about_right.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\about\\about_right.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\about\\about_right.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\about\\pet_care.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\about\\pet_care.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\about\\pet_care.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\adapt_icon\\1.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\adapt_icon\\1.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\adapt_icon\\1.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\adapt_icon\\1.svg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\adapt_icon\\1.svg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\adapt_icon\\1.svg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\adapt_icon\\2.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\adapt_icon\\2.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\adapt_icon\\2.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\adapt_icon\\3.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\adapt_icon\\3.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\adapt_icon\\3.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\banner\\dog.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\banner\\dog.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\banner\\dog.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\banner\\img.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\banner\\img.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\banner\\img.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\blog\\author.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\blog\\author.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\blog\\author.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\blog\\blog_4.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\blog\\blog_4.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\blog\\blog_4.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\blog\\home-blog1.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\blog\\home-blog1.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\blog\\home-blog1.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\blog\\home-blog2.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\blog\\home-blog2.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\blog\\home-blog2.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\blog\\learn_about_bg.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\blog\\learn_about_bg.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\blog\\learn_about_bg.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\blog\\single_blog_1.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\blog\\single_blog_1.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\blog\\single_blog_1.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\blog\\single_blog_2.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\blog\\single_blog_2.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\blog\\single_blog_2.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\blog\\single_blog_3.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\blog\\single_blog_3.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\blog\\single_blog_3.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\blog\\single_blog_4.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\blog\\single_blog_4.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\blog\\single_blog_4.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\blog\\single_blog_5.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\blog\\single_blog_5.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\blog\\single_blog_5.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\blog\\slide_thumb_1.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\blog\\slide_thumb_1.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\blog\\slide_thumb_1.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\comment\\comment_1.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\comment\\comment_1.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\comment\\comment_1.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\comment\\comment_2.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\comment\\comment_2.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\comment\\comment_2.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\comment\\comment_3.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\comment\\comment_3.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\comment\\comment_3.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\a.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\a.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\a.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\a2.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\a2.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\a2.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\d.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\d.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\d.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\disabled-check.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\disabled-check.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\disabled-check.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\disabled-radio.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\disabled-radio.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\disabled-radio.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\f1.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\f1.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\f1.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\f2.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\f2.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\f2.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\f3.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\f3.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\f3.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\f4.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\f4.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\f4.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\f5.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\f5.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\f5.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\f6.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\f6.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\f6.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\f7.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\f7.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\f7.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\f8.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\f8.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\f8.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\g1.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\g1.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\g1.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\g2.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\g2.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\g2.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\g3.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\g3.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\g3.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\g4.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\g4.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\g4.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\g5.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\g5.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\g5.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\g6.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\g6.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\g6.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\g7.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\g7.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\g7.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\g8.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\g8.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\g8.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\primary-check.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\primary-check.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\primary-check.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\primary-radio.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\primary-radio.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\primary-radio.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\success-check.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\success-check.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\success-check.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\success-radio.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\elements\\success-radio.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\elements\\success-radio.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\favicon.ico",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\favicon.ico",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\gallery\\1.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\gallery\\1.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\gallery\\1.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\gallery\\2.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\gallery\\2.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\gallery\\2.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\gallery\\3.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\gallery\\3.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\gallery\\3.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\gallery\\cv_bg.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\gallery\\cv_bg.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\gallery\\cv_bg.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\gallery\\how-applybg.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\gallery\\how-applybg.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\gallery\\how-applybg.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\hero\\about.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\hero\\about.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\hero\\about.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\hero\\h1_hero.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\hero\\h1_hero.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\hero\\h1_hero.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\icon\\form.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\icon\\form.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\icon\\form.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\icon\\job-list1.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\icon\\job-list1.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\icon\\job-list1.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\icon\\job-list2.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\icon\\job-list2.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\icon\\job-list2.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\icon\\job-list3.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\icon\\job-list3.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\icon\\job-list3.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\icon\\job-list4.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\icon\\job-list4.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\icon\\job-list4.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\logo\\form-iocn.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\logo\\form-iocn.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\logo\\form-iocn.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\logo\\loder.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\logo\\loder.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\logo\\loder.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\logo\\logo.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\logo\\logo.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\logo\\logo.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\logo\\logo2_footer.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\logo\\logo2_footer.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\logo\\logo2_footer.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\logo\\select-items-icon.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\logo\\select-items-icon.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\logo\\select-items-icon.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\logo\\testimonial.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\logo\\testimonial.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\logo\\testimonial.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\offers\\1.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\offers\\1.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\offers\\1.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\offers\\2.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\offers\\2.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\offers\\2.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\offers\\3.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\offers\\3.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\offers\\3.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\our_blog\\blog-img1.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\our_blog\\blog-img1.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\our_blog\\blog-img1.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\post\\next.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\post\\next.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\post\\next.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\post\\post_1.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\post\\post_1.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\post\\post_1.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\post\\post_10.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\post\\post_10.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\post\\post_10.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\post\\post_2.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\post\\post_2.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\post\\post_2.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\post\\post_3.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\post\\post_3.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\post\\post_3.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\post\\post_4.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\post\\post_4.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\post\\post_4.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\post\\post_5.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\post\\post_5.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\post\\post_5.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\post\\post_6.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\post\\post_6.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\post\\post_6.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\post\\post_7.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\post\\post_7.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\post\\post_7.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\post\\post_8.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\post\\post_8.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\post\\post_8.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\post\\post_9.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\post\\post_9.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\post\\post_9.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\post\\preview.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\post\\preview.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\post\\preview.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\prising\\1.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\prising\\1.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\prising\\1.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\prising\\10.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\prising\\10.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\prising\\10.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\prising\\2.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\prising\\2.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\prising\\2.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\prising\\3.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\prising\\3.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\prising\\3.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\prising\\4.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\prising\\4.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\prising\\4.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\prising\\5.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\prising\\5.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\prising\\5.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\prising\\6.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\prising\\6.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\prising\\6.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\prising\\7.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\prising\\7.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\prising\\7.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\prising\\8.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\prising\\8.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\prising\\8.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\prising\\9.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\prising\\9.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\prising\\9.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\service\\1.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\service\\1.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\service\\1.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\service\\2.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\service\\2.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\service\\2.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\service\\3.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\service\\3.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\service\\3.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\service\\footer_bg.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\service\\footer_bg.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\service\\footer_bg.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\service\\service_icon_1.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\service\\service_icon_1.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\service\\service_icon_1.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\service\\service_icon_2.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\service\\service_icon_2.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\service\\service_icon_2.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\service\\service_icon_3.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\service\\service_icon_3.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\service\\service_icon_3.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\service\\service_icon_bg_1.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\service\\service_icon_bg_1.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\service\\service_icon_bg_1.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\service\\support-img.jpg",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\service\\support-img.jpg",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\service\\support-img.jpg"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\team\\1.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\team\\1.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\team\\1.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\team\\2.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\team\\2.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\team\\2.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\team\\3.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\team\\3.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\team\\3.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\testmonial\\1.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\testmonial\\1.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\testmonial\\1.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\testmonial\\testimonial-founder.png",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\img\\testmonial\\testimonial-founder.png",
       "PackagePath": "staticwebassets\\websites\\assets\\img\\testmonial\\testimonial-founder.png"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\animated.headline.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\animated.headline.js",
       "PackagePath": "staticwebassets\\websites\\assets\\js\\animated.headline.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\websites\\assets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\contact.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\contact.js",
       "PackagePath": "staticwebassets\\websites\\assets\\js\\contact.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\jquery.ajaxchimp.min.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\jquery.ajaxchimp.min.js",
       "PackagePath": "staticwebassets\\websites\\assets\\js\\jquery.ajaxchimp.min.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\jquery.form.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\jquery.form.js",
       "PackagePath": "staticwebassets\\websites\\assets\\js\\jquery.form.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\jquery.magnific-popup.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\jquery.magnific-popup.js",
       "PackagePath": "staticwebassets\\websites\\assets\\js\\jquery.magnific-popup.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\jquery.nice-select.min.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\jquery.nice-select.min.js",
       "PackagePath": "staticwebassets\\websites\\assets\\js\\jquery.nice-select.min.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\jquery.paroller.min.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\jquery.paroller.min.js",
       "PackagePath": "staticwebassets\\websites\\assets\\js\\jquery.paroller.min.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\jquery.scrollUp.min.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\jquery.scrollUp.min.js",
       "PackagePath": "staticwebassets\\websites\\assets\\js\\jquery.scrollUp.min.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\jquery.slicknav.min.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\jquery.slicknav.min.js",
       "PackagePath": "staticwebassets\\websites\\assets\\js\\jquery.slicknav.min.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\jquery.sticky.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\jquery.sticky.js",
       "PackagePath": "staticwebassets\\websites\\assets\\js\\jquery.sticky.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\jquery.validate.min.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\websites\\assets\\js\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\mail-script.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\mail-script.js",
       "PackagePath": "staticwebassets\\websites\\assets\\js\\mail-script.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\main.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\main.js",
       "PackagePath": "staticwebassets\\websites\\assets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\one-page-nav-min.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\one-page-nav-min.js",
       "PackagePath": "staticwebassets\\websites\\assets\\js\\one-page-nav-min.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\owl.carousel.min.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\websites\\assets\\js\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\plugins.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\plugins.js",
       "PackagePath": "staticwebassets\\websites\\assets\\js\\plugins.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\popper.min.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\websites\\assets\\js\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\price_rangs.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\price_rangs.js",
       "PackagePath": "staticwebassets\\websites\\assets\\js\\price_rangs.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\slick.min.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\slick.min.js",
       "PackagePath": "staticwebassets\\websites\\assets\\js\\slick.min.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\vendor\\jquery-1.12.4.min.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\vendor\\jquery-1.12.4.min.js",
       "PackagePath": "staticwebassets\\websites\\assets\\js\\vendor\\jquery-1.12.4.min.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\vendor\\modernizr-3.5.0.min.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\vendor\\modernizr-3.5.0.min.js",
       "PackagePath": "staticwebassets\\websites\\assets\\js\\vendor\\modernizr-3.5.0.min.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\wow.min.js",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\js\\wow.min.js",
       "PackagePath": "staticwebassets\\websites\\assets\\js\\wow.min.js"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_apply-proces.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_apply-proces.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_apply-proces.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_blog.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_blog.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_blog.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_blog_page.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_blog_page.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_blog_page.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_bradcam.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_bradcam.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_bradcam.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_color.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_color.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_color.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_common.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_common.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_common.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_contact.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_contact.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_contact.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_cv-online.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_cv-online.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_cv-online.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_elements.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_elements.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_elements.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_extend.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_extend.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_extend.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_featured-Jobs.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_featured-Jobs.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_featured-Jobs.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_footer.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_footer.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_footer.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_h1-hero.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_h1-hero.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_h1-hero.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_headerMenu.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_headerMenu.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_headerMenu.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_job_details.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_job_details.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_job_details.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_job_listing.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_job_listing.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_job_listing.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_mixins.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_overlay.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_overlay.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_overlay.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_pagination.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_pagination.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_recent.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_recent.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_recent.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_services.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_services.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_services.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_services_section.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_services_section.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_services_section.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_support-company.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_support-company.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_support-company.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_team.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_team.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_team.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_testimonial.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_testimonial.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_testimonial.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_variables.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\style.scss",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\assets\\scss\\style.scss",
       "PackagePath": "staticwebassets\\websites\\assets\\scss\\style.scss"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\blog.html",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\blog.html",
       "PackagePath": "staticwebassets\\websites\\blog.html"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\contact.html",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\contact.html",
       "PackagePath": "staticwebassets\\websites\\contact.html"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\contact_process.php",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\contact_process.php",
       "PackagePath": "staticwebassets\\websites\\contact_process.php"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\elements.html",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\elements.html",
       "PackagePath": "staticwebassets\\websites\\elements.html"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\index.html",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\index.html",
       "PackagePath": "staticwebassets\\websites\\index.html"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\job_details.html",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\job_details.html",
       "PackagePath": "staticwebassets\\websites\\job_details.html"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\job_listing.html",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\job_listing.html",
       "PackagePath": "staticwebassets\\websites\\job_listing.html"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\main.html",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\main.html",
       "PackagePath": "staticwebassets\\websites\\main.html"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\readme.txt",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\readme.txt",
       "PackagePath": "staticwebassets\\websites\\readme.txt"
     },
     {
-      "Id": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\wwwroot\\websites\\single-blog.html",
+      "Id": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\wwwroot\\websites\\single-blog.html",
       "PackagePath": "staticwebassets\\websites\\single-blog.html"
     },
     {

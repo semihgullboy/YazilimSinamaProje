@@ -12,13 +12,13 @@
 {
     <div class="card">
         <div class="card-header text-right">
-            <h3>@item.newBudget $</h3>
+            <h3>@item.NewBudget $</h3>
         </div>
         <div class="card-body">
-            <h4 class="card-title">@item.project.projectTitle</h4>
-            <p class="card-text">@item.explanation</p>
+            <h4 class="card-title">@item.Project.ProjectTitle</h4>
+            <p class="card-text">@item.Explanation</p>
             <form method="post" action="@Url.Action("ApprovedJob", "Work")">
-                <input type="hidden" name="workId" value="@item.workID" />
+                <input type="hidden" name="workId" value="@item.WorkID" />
                 <button type="submit" class="btn btn-primary">İşi Onayla</button>
             </form>
         </div>

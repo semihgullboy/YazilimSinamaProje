@@ -22,7 +22,6 @@
     </div>
 }
 
-
 @if (!string.IsNullOrEmpty(ViewBag.TeklifBulunamadi))
 {
     <p>@ViewBag.TeklifBulunamadi</p>
@@ -33,18 +32,18 @@ else
     {
         <div class="card">
             <div class="card-header text-right">
-                Teklifiniz: @item.Project.projectBudget | Gelen Teklif :@item.bidAmount $
+                Teklifiniz: @item.Project.ProjectBudget | Gelen Teklif :@item.BidAmount $
             </div>
             <div class="card-body">
 
-                <h4 class="card-title">@item.Project.projectTitle</h4>
-                <p class="card-text">@item.Project.projectDescription</p>
-                <p class="card-text">Teklif Veren:@item.bidderID || </p>
+                <h4 class="card-title">@item.Project.ProjectTitle</h4>
+                <p class="card-text">@item.Project.ProjectDescription</p>
+                <p class="card-text">Teklif Veren:@item.BidderID || </p>
                 <form method="post" action="@Url.Action("OfferConfirmation", "Work")">
-                    <input type="hidden" name="projectId" value="@item.Project.projectID" />
-                    <input type="hidden" name="teklifverenID" value="@item.bidderID" />
-                    <input type="hidden" name="teklifalanID" value="@item.offerRecipientID" />
-                    <input type="hidden" name="newbudget" value="@item.bidAmount" />
+                    <input type="hidden" name="projectId" value="@item.Project.ProjectID" />
+                    <input type="hidden" name="teklifverenID" value="@item.BidderID" />
+                    <input type="hidden" name="teklifalanID" value="@item.OfferRecipientID" />
+                    <input type="hidden" name="newbudget" value="@item.BidAmount" />
                     <button type="submit" class="btn btn-primary">Teklifi Kabul Et</button>
                 </form>
             </div>
@@ -52,4 +51,3 @@ else
     }
 }
 <br />
-

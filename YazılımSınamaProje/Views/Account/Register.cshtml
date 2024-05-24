@@ -1,13 +1,12 @@
-﻿
-@{
+﻿@{
     Layout = null;
 }
 
 <!DOCTYPE html>
-
-<html>
+<html lang="en">
 <head>
-    <meta name="viewport" content="width=device-width" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Register</title>
     <style>
         body {
@@ -62,7 +61,7 @@
             background-color: #4caf50;
             color: #fff;
             padding: 12px;
-            margin-bottom:15px;
+            margin-bottom: 15px;
             border: none;
             border-radius: 20px;
             cursor: pointer;
@@ -88,11 +87,11 @@
             <h2>Register</h2>
             <hr />
 
-            <input type="text" id="firstname" name="firstName" placeholder="First name" required>
-            <input type="text" id="lastname" name="lastName" placeholder="Last name" required="">
-            <input type="email" id="email" name="email" placeholder="Email" required="">
-            <input type="password" id="password" name="password" minlength="8" placeholder="Şifre (En az 8 karakter)" required>
-            <select id="country" name="country" required>
+            <input type="text" id="firstname" name="FirstName" placeholder="First name" required>
+            <input type="text" id="lastname" name="LastName" placeholder="Last name" required="">
+            <input type="email" id="email" name="Email" placeholder="Email" required="">
+            <input type="password" id="password" name="Password" minlength="8" placeholder="Şifre (En az 8 karakter)" required>
+            <select id="country" name="Country" required>
                 <option value="" disabled selected>Ülkenizi seçiniz..</option>
                 <option value="country1">Türkiye</option>
                 <option value="country2">Amerika</option>
@@ -100,7 +99,7 @@
 
             <button type="submit">Register</button>
             <a href="/Account/Login">Zaten bir hesabın var mı ?</a>
-
+        </div>
     </form>
 </body>
 </html>

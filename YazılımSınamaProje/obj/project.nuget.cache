@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zLs0m6ohC/GlWZ0B7S5ivBJSLo6boRyjqSOMVjLm705+zOPdKOXgCd+bxjzVom9pf2P5PY0+nRFSxXDsCezbWA==",
+  "dgSpecHash": "6LJXpkKEh/ZbQh/4M6lUHQvKbqAJCGYZbPkB83Awe+6VRFhoSP7Y2HLWD3booa5abLApE/fytmEKD4CPV2jLjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\semih\\source\\repos\\YazılımSınamaProje\\YazılımSınamaProje.csproj",
+  "projectFilePath": "C:\\Users\\semih\\OneDrive\\Belgeler\\GitHub\\YazilimSinamaProje\\YazılımSınamaProje\\YazılımSınamaProje.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\semih\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\semih\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
@@ -229,7 +229,11 @@
     "C:\\Users\\semih\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\semih\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\semih\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\semih\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\semih\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\semih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\semih\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\semih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\semih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
   ],
   "logs": []
 }

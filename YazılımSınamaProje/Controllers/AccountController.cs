@@ -2,13 +2,22 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 using System.Diagnostics;
+using System.Threading.Tasks;
+using System.Collections.Generic;
 using YazılımSınamaProje.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace YazılımSınamaProje.Controllers
 {
     public class AccountController : Controller
     {
-       
+        private readonly Context _context;
+
+        public AccountController(Context context)
+        {
+            _context = context;
+        }
+
         [HttpGet]
         public IActionResult Register()
         {
@@ -16,12 +25,11 @@ namespace YazılımSınamaProje.Controllers
         }
 
         [HttpPost]
-        public IActionResult Register(User p1)
+        public IActionResult Register(User user)
         {
-            using var c = new Context();
-            c.users.Add(p1);
-            c.SaveChanges();
-            return RedirectToAction("Login", "Account");
+            _context.Users.Add(user);
+            _context.SaveChanges();
+            return RedirectToAction("Login");
         }
 
         [HttpGet]
@@ -31,25 +39,22 @@ namespace YazılımSınamaProje.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Login(User p)
+        public async Task<IActionResult> Login(User user)
         {
-            using var c = new Context();
-            var bilgiler = c.users.FirstOrDefault(c => c.email == p.email && c.password == p.password);
+            var userInfo = await _context.Users.FirstOrDefaultAsync(u => u.Email == user.Email && u.Password == user.Password);
 
-            if (bilgiler != null)
+            if (userInfo != null)
             {
-                //HttpContext.Session.SetString("UserID", p.Email);
                 var claims = new List<Claim>
                 {
-                    new Claim(ClaimTypes.Name,p.email)
+                    new Claim(ClaimTypes.Name, user.Email)
                 };
-                var useridentity = new ClaimsIdentity(claims, "a");
-                ClaimsPrincipal principal = new ClaimsPrincipal(useridentity);
+                var userIdentity = new ClaimsIdentity(claims, "a");
+                var principal = new ClaimsPrincipal(userIdentity);
                 await HttpContext.SignInAsync(principal);
                 return RedirectToAction("Index2", "Home");
             }
 
-            // Eğer bilgiler null ise, yani eşleşen kullanıcı yoksa, ModelState hatası ekleyin.
             ModelState.AddModelError(string.Empty, "Geçersiz kullanıcı adı veya şifre.");
             return View();
         }
@@ -62,4 +67,3 @@ namespace YazılımSınamaProje.Controllers
         }
     }
 }
-

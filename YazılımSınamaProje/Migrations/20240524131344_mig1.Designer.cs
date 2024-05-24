@@ -12,8 +12,8 @@ using YazılımSınamaProje.Models;
 namespace YazılımSınamaProje.Migrations
 {
     [DbContext(typeof(Context))]
-    [Migration("20240104150331_addtables")]
-    partial class addtables
+    [Migration("20240524131344_mig1")]
+    partial class mig1
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -27,139 +27,139 @@ namespace YazılımSınamaProje.Migrations
 
             modelBuilder.Entity("YazılımSınamaProje.Models.Offer", b =>
                 {
-                    b.Property<int>("offerID")
+                    b.Property<int>("OfferID")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("offerID"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("OfferID"));
 
-                    b.Property<int>("bidAmount")
+                    b.Property<int>("BidAmount")
                         .HasColumnType("int");
 
-                    b.Property<int>("bidderID")
+                    b.Property<int>("BidderID")
                         .HasColumnType("int");
 
-                    b.Property<int>("offerRecipientID")
+                    b.Property<int>("OfferRecipientID")
                         .HasColumnType("int");
 
-                    b.Property<int>("projectID")
+                    b.Property<int>("ProjectID")
                         .HasColumnType("int");
 
-                    b.HasKey("offerID");
+                    b.HasKey("OfferID");
 
-                    b.HasIndex("projectID");
+                    b.HasIndex("ProjectID");
 
-                    b.ToTable("offers");
+                    b.ToTable("Offers");
                 });
 
             modelBuilder.Entity("YazılımSınamaProje.Models.Project", b =>
                 {
-                    b.Property<int>("projectID")
+                    b.Property<int>("ProjectID")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("projectID"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ProjectID"));
 
-                    b.Property<int>("projectBudget")
+                    b.Property<int>("ProjectBudget")
                         .HasColumnType("int");
 
-                    b.Property<string>("projectDescription")
+                    b.Property<string>("ProjectDescription")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("projectLanguage")
+                    b.Property<string>("ProjectLanguage")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("projectTime")
+                    b.Property<string>("ProjectTime")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("projectTitle")
+                    b.Property<string>("ProjectTitle")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("userId")
+                    b.Property<int>("UserID")
                         .HasColumnType("int");
 
-                    b.HasKey("projectID");
+                    b.HasKey("ProjectID");
 
-                    b.HasIndex("userId");
+                    b.HasIndex("UserID");
 
-                    b.ToTable("projects");
+                    b.ToTable("Projects");
                 });
 
             modelBuilder.Entity("YazılımSınamaProje.Models.User", b =>
                 {
-                    b.Property<int>("userID")
+                    b.Property<int>("UserID")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("userID"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("UserID"));
 
-                    b.Property<string>("country")
+                    b.Property<string>("Country")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("email")
+                    b.Property<string>("Email")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("firstName")
+                    b.Property<string>("FirstName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("lastName")
+                    b.Property<string>("LastName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int?>("money")
+                    b.Property<int?>("Money")
                         .HasColumnType("int");
 
-                    b.Property<string>("password")
+                    b.Property<string>("Password")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("userID");
+                    b.HasKey("UserID");
 
-                    b.ToTable("users");
+                    b.ToTable("Users");
                 });
 
             modelBuilder.Entity("YazılımSınamaProje.Models.Work", b =>
                 {
-                    b.Property<int>("workID")
+                    b.Property<int>("WorkID")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("workID"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("WorkID"));
 
-                    b.Property<int>("employerID")
+                    b.Property<int>("EmployerID")
                         .HasColumnType("int");
 
-                    b.Property<string>("explanation")
+                    b.Property<string>("Explanation")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("newBudget")
+                    b.Property<int>("NewBudget")
                         .HasColumnType("int");
 
-                    b.Property<int>("projectID")
+                    b.Property<int>("ProjectID")
                         .HasColumnType("int");
 
-                    b.Property<int>("workBusinessID")
+                    b.Property<int>("WorkBusinessID")
                         .HasColumnType("int");
 
-                    b.HasKey("workID");
+                    b.HasKey("WorkID");
 
-                    b.HasIndex("projectID");
+                    b.HasIndex("ProjectID");
 
-                    b.ToTable("works");
+                    b.ToTable("Works");
                 });
 
             modelBuilder.Entity("YazılımSınamaProje.Models.Offer", b =>
                 {
                     b.HasOne("YazılımSınamaProje.Models.Project", "Project")
                         .WithMany()
-                        .HasForeignKey("projectID")
+                        .HasForeignKey("ProjectID")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
@@ -170,7 +170,7 @@ namespace YazılımSınamaProje.Migrations
                 {
                     b.HasOne("YazılımSınamaProje.Models.User", "User")
                         .WithMany()
-                        .HasForeignKey("userId")
+                        .HasForeignKey("UserID")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
@@ -179,13 +179,13 @@ namespace YazılımSınamaProje.Migrations
 
             modelBuilder.Entity("YazılımSınamaProje.Models.Work", b =>
                 {
-                    b.HasOne("YazılımSınamaProje.Models.Project", "project")
+                    b.HasOne("YazılımSınamaProje.Models.Project", "Project")
                         .WithMany()
-                        .HasForeignKey("projectID")
+                        .HasForeignKey("ProjectID")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("project");
+                    b.Navigation("Project");
                 });
 #pragma warning restore 612, 618
         }

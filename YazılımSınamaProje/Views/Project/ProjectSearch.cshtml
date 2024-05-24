@@ -15,19 +15,18 @@
 }
 
 <br />
+
 @foreach (var item in Model)
 {
     <div class="card">
         <div class="card-header text-right">
-            <a href="/Offer/TeklifVer" class="btn-lg  btn-primary m-2">Teklif</a> @item.projectBudget
+            <a href="/Offer/TeklifVer" class="btn-lg btn-primary m-2">Teklif</a> @item.ProjectBudget
         </div>
         <div class="card-body">
-            <h4 class="card-title">@item.projectTitle</h4>
-            <p class="card-text">@item.projectDescription</p>
-            <p class="card-text">İş süresi :@item.projectTime</p>
-            <p class="card-text">@item.projectLanguage | Projeyi ekleyen kisi: @item.User.firstName @item.User.lastName</p>
-
+            <h4 class="card-title">@item.ProjectTitle</h4>
+            <p class="card-text">@item.ProjectDescription</p>
+            <p class="card-text">İş süresi: @item.ProjectTime</p>
+            <p class="card-text">@item.ProjectLanguage | Projeyi ekleyen kişi: @item.User.FirstName @item.User.LastName</p>
         </div>
     </div>
 }
-

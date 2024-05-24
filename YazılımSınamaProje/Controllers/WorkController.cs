@@ -1,148 +1,127 @@
-﻿
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Linq;
 using YazılımSınamaProje.Models;
 
 namespace YazılımSınamaProje.Controllers
 {
     public class WorkController : Controller
     {
+        private readonly Context _context;
+
+        public WorkController(Context context)
+        {
+            _context = context;
+        }
 
         [HttpPost]
         public IActionResult OfferConfirmation(int projectId, int teklifverenID, int teklifalanID, int newbudget)
         {
-            using (var c = new Context())
+            var existingWork = _context.Works.FirstOrDefault(w => w.ProjectID == projectId && w.EmployerID == teklifalanID);
+
+            if (existingWork != null)
             {
-                // Daha önce bu projeyi onaylamış bir iş var mı kontrol et
-                var existingWork = c.works.FirstOrDefault(w => w.projectID == projectId && w.employerID == teklifalanID);
-
-                if (existingWork != null)
-                {
-                    // Daha önce onaylanmış bir iş varsa, hata mesajı gönder
-                    TempData["ErrorMessage"] = "Bu projeyi zaten onayladınız!";
-                    return RedirectToAction("OfferList", "Offer");
-                }
-
-                // Yeni işi oluştur ve veritabanına ekle
-                var work = new Work
-                {
-                    projectID = projectId,
-                    workBusinessID = teklifverenID,
-                    employerID = teklifalanID,
-                    newBudget = newbudget,
-                    // Diğer teklif özelliklerini doldurabilirsiniz
-                };
-
-                c.works.Add(work);
-                c.SaveChanges();
-
-                // Başarı mesajını TempData ile sakla
-                TempData["SuccessMessage"] = "Teklif başarıyla gönderildi.";
-
+                TempData["ErrorMessage"] = "Bu projeyi zaten onayladınız!";
                 return RedirectToAction("OfferList", "Offer");
             }
+
+            var work = new Work
+            {
+                ProjectID = projectId,
+                WorkBusinessID = teklifverenID,
+                EmployerID = teklifalanID,
+                NewBudget = newbudget
+            };
+
+            _context.Works.Add(work);
+            _context.SaveChanges();
+
+            TempData["SuccessMessage"] = "Teklif başarıyla gönderildi.";
+
+            return RedirectToAction("OfferList", "Offer");
         }
 
 
         [HttpGet]
         public IActionResult MyWorks()
         {
-            using var c = new Context();
             var usermail = User.Identity.Name;
-            var girisyapan = c.users.Where(x => x.email == usermail).Select(y => y.userID).FirstOrDefault();
-            var degerler = c.works.Where(x => x.workBusinessID== girisyapan).ToList();
-            c.works.Include(p => p.project).ToList();
+            var girisyapan = _context.Users.Where(x => x.Email == usermail).Select(y => y.UserID).FirstOrDefault();
+            var degerler = _context.Works.Where(x => x.WorkBusinessID == girisyapan).Include(w => w.Project).ToList();
             return View(degerler);
         }
 
         [HttpPost]
         public IActionResult JobDelivery(int workId, string aciklama)
         {
-            using (var c = new Context())
+            var work = _context.Works.FirstOrDefault(w => w.WorkID == workId);
+
+            if (work != null)
             {
-                // İş ID'sine göre ilgili işi bul
-                var work = c.works.FirstOrDefault(w => w.workID == workId);
-
-                if (work != null)
+                if (!string.IsNullOrEmpty(work.Explanation))
                 {
-                    if (!string.IsNullOrEmpty(work.explanation))
-                    {
-                        TempData["ErrorMessage"] = "İş zaten teslim edildi. Başka bir açıklama ekleyemezsiniz.";
-                        return RedirectToAction("MyWorks", "Work");
-                    }
-                    // Açıklamayı ilgili işe ekle
-                    work.explanation = aciklama;
-                    c.SaveChanges();
+                    TempData["ErrorMessage"] = "İş zaten teslim edildi. Başka bir açıklama ekleyemezsiniz.";
+                    return RedirectToAction("MyWorks", "Work");
                 }
-                // Başarıyla teslim edildiğine dair mesaj
-                TempData["SuccessMessage"] = "İş başarıyla teslim edildi. Onay bekleniyor.";
 
-                // Geri dönmek istediğiniz sayfaya yönlendirin
-                return RedirectToAction("MyWorks", "Work");
+                work.Explanation = aciklama;
+                _context.SaveChanges();
             }
+
+            TempData["SuccessMessage"] = "İş başarıyla teslim edildi. Onay bekleniyor.";
+
+            return RedirectToAction("MyWorks", "Work");
         }
 
         [HttpGet]
         public IActionResult JobDeliveryList()
         {
-            using var c = new Context();
             var usermail = User.Identity.Name;
-            var girisyapan = c.users.Where(x => x.email == usermail).Select(y => y.userID).FirstOrDefault();
-            var degerler = c.works.Where(x => x.employerID == girisyapan).ToList();
-            c.works.Include(p => p.project).ToList();
+            var girisyapan = _context.Users.Where(x => x.Email == usermail).Select(y => y.UserID).FirstOrDefault();
+            var degerler = _context.Works.Where(x => x.EmployerID == girisyapan).Include(w => w.Project).ToList();
             return View(degerler);
         }
 
         [HttpPost]
         public IActionResult ApprovedJob(int workId)
         {
-            using (var c = new Context())
+            var work = _context.Works.FirstOrDefault(w => w.WorkID == workId);
+
+            if (work != null)
             {
-                var work = c.works.FirstOrDefault(w => w.workID == workId);
-
-                if (work != null)
+                var worker = _context.Users.FirstOrDefault(u => u.UserID == work.WorkBusinessID);
+                if (worker != null)
                 {
-                    // İşçinin parasını arttır
-                    var worker = c.users.FirstOrDefault(u => u.userID == work.workBusinessID);
-                    if (worker != null)
+                    if (worker.Money == null)
                     {
-                        // Eğer worker'ın parası null ise, bir başlangıç değeri atayın
-                        if (worker.money == null)
-                        {
-                            worker.money = 0; // veya başka bir başlangıç değeri
-                        }
-
-                        worker.money += work.newBudget;
+                        worker.Money = 0;
                     }
 
-                    // İşverenin parasını azalt
-                    var employer = c.users.FirstOrDefault(u => u.userID == work.employerID);
-                    if (employer != null)
-                    {
-                        // Eğer employer'ın parası null ise, bir başlangıç değeri atayın
-                        if (employer.money == null)
-                        {
-                            employer.money = 0; // veya başka bir başlangıç değeri
-                        }
-
-                        employer.money -= work.newBudget;
-                    }
-
-                    // İş ve projeyi sil
-                    c.works.Remove(work);
-                    var project = c.projects.FirstOrDefault(p => p.projectID == work.projectID);
-                    if (project != null)
-                    {
-                        c.projects.Remove(project);
-                    }
-
-                    // Değişiklikleri kaydet
-                    c.SaveChanges();
+                    worker.Money += work.NewBudget;
                 }
 
-                // Başka bir sayfaya yönlendirme
-                return RedirectToAction("Index2", "Home");
+                var employer = _context.Users.FirstOrDefault(u => u.UserID == work.EmployerID);
+                if (employer != null)
+                {
+                    if (employer.Money == null)
+                    {
+                        employer.Money = 0;
+                    }
+
+                    employer.Money -= work.NewBudget;
+                }
+
+                _context.Works.Remove(work);
+                var project = _context.Projects.FirstOrDefault(p => p.ProjectID == work.ProjectID);
+                if (project != null)
+                {
+                    _context.Projects.Remove(project);
+                }
+
+                _context.SaveChanges();
             }
+
+            return RedirectToAction("Index2", "Home");
         }
     }
 }

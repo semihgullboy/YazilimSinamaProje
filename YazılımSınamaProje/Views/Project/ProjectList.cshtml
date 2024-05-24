@@ -40,9 +40,9 @@
 {
     <div class="card">
         <div class="card-header text-right">
-            <button type="submit" class="btn-lg btn-primary m-2" data-toggle="modal" data-target="#exampleModal-@item.projectID">Teklif</button>
+            <button type="submit" class="btn-lg btn-primary m-2" data-toggle="modal" data-target="#exampleModal-@item.ProjectID">Teklif</button>
             <!-- Modal -->
-            <div class="modal fade" id="exampleModal-@item.projectID" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal fade" id="exampleModal-@item.ProjectID" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
                 <div class="modal-dialog" role="document">
                     <div class="modal-content">
                         <div class="modal-header">
@@ -54,24 +54,23 @@
 
                         <div class="modal-body">
                             <form method="post" action="@Url.Action("GiveOffer", "Offer")">
-                                <label for="teklifMiktari" >Teklif Miktarı:</label>
+                                <label for="teklifMiktari">Teklif Miktarı:</label>
                                 <input type="number" name="teklifMiktari" class="form-control" required />
-                                <input type="hidden" name="projectId" value="@item.projectID" /> <br>
+                                <input type="hidden" name="projectId" value="@item.ProjectID" /> <br>
                                 <button type="submit" class="btn btn-primary">Teklif Ver</button>
                             </form>
                         </div>
                     </div>
                 </div>
             </div>
-            @item.projectBudget
+            @item.ProjectBudget
         </div>
         <div class="card-body">
-            <h4 class="card-title">@item.projectTitle</h4>
-            <p class="card-text">@item.projectDescription</p>
-            <p class="card-text">İş süresi :@item.projectTime</p>
-            <p class="card-text">@item.projectLanguage | Projeyi ekleyen kisi: @item.User.firstName @item.User.lastName </p>
+            <h4 class="card-title">@item.ProjectTitle</h4>
+            <p class="card-text">@item.ProjectDescription</p>
+            <p class="card-text">İş süresi :@item.ProjectTime</p>
+            <p class="card-text">@item.ProjectLanguage | Projeyi ekleyen kisi: @item.User.FirstName @item.User.LastName </p>
         </div>
     </div>
     <br />
 }
-

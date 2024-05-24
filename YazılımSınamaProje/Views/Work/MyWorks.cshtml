@@ -26,38 +26,35 @@
 {
     <div class="card">
         <div class="card-header">
-            <h4 class="card-title">@item.project.projectTitle</h4>
+            <h4 class="card-title">@item.Project.ProjectTitle</h4>
         </div>
         <div class="card-body">
-            <p class="card-text">@item.project.projectDescription</p>
-            <p class="card-text">İş süresi :@item.project.projectTime</p>
-            <p class="card-text">@item.project.projectLanguage  </p>
-            <button type="submit" class="btn-lg btn-primary m-2" data-toggle="modal" data-target="#exampleModal-@item.projectID">Teslim Et</button>
+            <p class="card-text">@item.Project.ProjectDescription</p>
+            <p class="card-text">İş süresi :@item.Project.ProjectTime</p>
+            <p class="card-text">@item.Project.ProjectLanguage</p>
+            <button type="button" class="btn btn-lg btn-primary m-2" data-toggle="modal" data-target="#exampleModal-@item.WorkID">Teslim Et</button>
             <!-- Modal -->
-            <div class="modal fade" id="exampleModal-@item.projectID" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal fade" id="exampleModal-@item.WorkID" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
                 <div class="modal-dialog" role="document">
                     <div class="modal-content">
                         <div class="modal-header">
-                            <h5 class="modal-title" id="exampleModalLabel">Teklif Ver</h5>
+                            <h5 class="modal-title" id="exampleModalLabel">İş Teslim Açıklaması</h5>
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span>
                             </button>
                         </div>
-
                         <div class="modal-body">
                             <form method="post" action="@Url.Action("JobDelivery", "Work")">
-                                <input type="hidden" name="workId" value="@item.workID" />
-                                <label for="teklifMiktari">İş Teslim Açıklaması:</label><br>
-                                <textarea id="yaziIcerigi" name="aciklama" class="form-control" rows="4" placeholder="Metin giriniz..."></textarea><br>
+                                <input type="hidden" name="workId" value="@item.WorkID" />
+                                <label for="aciklama">İş Teslim Açıklaması:</label><br>
+                                <textarea id="aciklama" name="aciklama" class="form-control" rows="4" placeholder="Metin giriniz..." required></textarea><br>
                                 <button type="submit" class="btn btn-primary">Teslimi Tamamla</button>
                             </form>
                         </div>
                     </div>
                 </div>
             </div>
-
         </div>
     </div>
 }
 <br />
-

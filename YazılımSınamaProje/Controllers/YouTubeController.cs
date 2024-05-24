@@ -1,26 +1,23 @@
 ﻿using System;
 using System.Net.Http;
-using System.Threading.Tasks;
-using Newtonsoft.Json.Linq;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json.Linq;
 using YazılımSınamaProje.Models;
 
 namespace YazılımSınamaProje.Controllers
 {
     public class YouTubeController : Controller
     {
-
-        public IActionResult Index()
-        {
-
-            return View();
-        }
-
         // YouTube Data API key
-        private const string ApiKey = "AIzaSyATTCLNgFG0fpW6yD-_s5CeWST5oRLqne4";
+        private const string ApiKey = "Your_API_Key";
 
         // Video ID
         private const string VideoId = "S-sW7Rixvfk";
+
+        public IActionResult Index()
+        {
+            return View();
+        }
 
         public ActionResult GetVideoComments(string kullaniciadi)
         {
@@ -53,12 +50,12 @@ namespace YazılımSınamaProje.Controllers
                             userCommentFound = true;
 
                             var usermail = User.Identity.Name;
-                            using (Context c = new Context())
+                            using (var c = new Context())
                             {
-                                var user = c.users.SingleOrDefault(x => x.email == usermail);
+                                var user = c.Users.SingleOrDefault(x => x.Email == usermail);
                                 if (user != null)
                                 {
-                                    user.money += 10;
+                                    user.Money += 10;
                                     c.SaveChanges();
                                 }
                             }
@@ -84,7 +81,5 @@ namespace YazılımSınamaProje.Controllers
 
             return View();
         }
-
-
     }
 }
